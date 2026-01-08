@@ -1,0 +1,9 @@
+{
+  "name": "GuardsME - Autonomous Safety Agent",
+  "description": "A real-time, multimodal personal safety agent using Gemini 3 Pro for deep spatial reasoning and Gemini Live for continuous perception.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
